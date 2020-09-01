@@ -1,0 +1,17 @@
+Source: kodi-game-libretro-pocketcdg
+Priority: extra
+Maintainer: wsnipex <wsnipex@a1.net>
+Build-Depends: debhelper (>= 9.0.0),
+               cmake,
+               kodi-addon-dev,
+               libretro-pocketcdg (>= 0.0.1) | pocketcdg (>= 0.0.1)
+Standards-Version: 3.9.8
+Section: libs
+
+Package: kodi-game-libretro-pocketcdg
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
+Enhances: kodi
+Description: PocketCDG core for kodi's retroplayer
+ PocketCDG core for kodi's retroplayer
