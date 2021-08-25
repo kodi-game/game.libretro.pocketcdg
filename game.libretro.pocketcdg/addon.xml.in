@@ -14,10 +14,10 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">PocketCDG git</summary>
-		<description lang="en_GB">PocketCDG is an MP3 karaoke music player.</description>
 		<license>MIT</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.pocketcdg</source>
+		<summary lang="en_GB">PocketCDG git</summary>
+		<description lang="en_GB">PocketCDG is an MP3 karaoke music player.</description>
 	</extension>
 </addon>
