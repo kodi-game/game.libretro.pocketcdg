@@ -33,7 +33,6 @@ jobs:
         run: |
           sync-addon-metadata-translations
         working-directory: ./project
-        continue-on-error: true
 
       - name: Commit files
         run: |
@@ -41,6 +40,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git commit -m "Sync of addon metadata translations" -a
         working-directory: ./project
+        continue-on-error: true
 
       - name: Push changes
         uses: ad-m/github-push-action@master
