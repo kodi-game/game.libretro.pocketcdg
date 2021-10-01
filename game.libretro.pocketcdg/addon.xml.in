@@ -20,5 +20,6 @@
 		<source>https://github.com/kodi-game/game.libretro.pocketcdg</source>
 		<summary lang="en_GB">PocketCDG git</summary>
 		<description lang="en_GB">PocketCDG is an MP3 karaoke music player.</description>
+		<description lang="ko_KR">PocketCDG는 MP3 노래방 음악 플레이어입니다.</description>
 	</extension>
 </addon>
