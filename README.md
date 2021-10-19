@@ -4,9 +4,21 @@
 # PocketCDG
 
 ### Description
+
 PocketCDG is an MP3 karaoke music player.
 
 ### License
+
 MIT
 
+### Icon
 
+Help make me an icon!
+
+### Fanart
+
+Help make me fanart!
+
+### Screenshots
+
+Help make me screenshots!
