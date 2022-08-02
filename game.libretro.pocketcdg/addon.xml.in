@@ -22,5 +22,6 @@
 		<description lang="da_DK">PocketCDG er en MP3 karaoke musikafspiller.</description>
 		<description lang="en_GB">PocketCDG is an MP3 karaoke music player.</description>
 		<description lang="ko_KR">PocketCDG는 MP3 노래방 음악 플레이어입니다.</description>
+		<description lang="zh_CN">PocketCDG 是一款 MP3 卡拉 OK 音乐播放器。</description>
 	</extension>
 </addon>
