@@ -13,7 +13,7 @@ MIT
 
 ### Icon
 
-Help make me an icon!
+![Icon](game.libretro.pocketcdg/resources/icon.png)
 
 ### Fanart
 
