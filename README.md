@@ -13,7 +13,7 @@ MIT
 
 ### Icon
 
-![Icon](game.libretro.pocketcdg/resources/icon.png)
+![PocketCDG icon](game.libretro.pocketcdg/resources/icon.png)
 
 ### Fanart
 
