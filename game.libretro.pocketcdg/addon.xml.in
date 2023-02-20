@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.pocketcdg"
 		name="PocketCDG"
-		version="0.0.1.22"
+		version="0.0.1.23"
 		provider-name="RedBug">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
