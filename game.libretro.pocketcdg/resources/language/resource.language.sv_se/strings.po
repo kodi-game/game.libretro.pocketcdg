@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 msgctxt "Addon Summary"
-msgid "PocketCDG git"
+msgid "PocketCDG"
 msgstr ""
 
 msgctxt "Addon Description"
