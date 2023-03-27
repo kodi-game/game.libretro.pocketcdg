@@ -22,6 +22,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">PocketCDG</summary>
+		<summary lang="es_ES">PocketCDG</summary>
 		<description lang="da_DK">PocketCDG er en MP3 karaoke musikafspiller.</description>
 		<description lang="de_DE">PocketCDG ist ein MP3-Karaoke-Musikplayer.</description>
 		<description lang="en_GB">PocketCDG is an MP3 karaoke music player.</description>
