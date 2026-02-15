@@ -1,0 +1,25 @@
+From b48b807e770aeea9a9e8f7af36f5e04ed4727aaa Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Sun, 1 Feb 2026 09:19:06 -0800
+Subject: [PATCH] Set need_fullpath to true
+
+---
+ libretro.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/libretro.c b/libretro.c
+index 83a49a7..cd897d0 100644
+--- a/libretro.c
++++ b/libretro.c
+@@ -168,7 +168,7 @@ void retro_get_system_info(struct retro_system_info *info)
+ {
+    memset(info, 0, sizeof(*info));
+    info->library_name     = "pocketcdg";
+-   info->need_fullpath    = false;
++   info->need_fullpath    = true;
+    info->valid_extensions = "cdg";
+ #ifdef GIT_VERSION
+    info->library_version  = "git" GIT_VERSION;
+-- 
+2.52.0
+
