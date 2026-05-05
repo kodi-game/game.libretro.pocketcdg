@@ -1,1 +1,1 @@
-pocketcdg https://github.com/libretro/libretro-pocketcdg/archive/c1fac9f7164e60e5c4b81705b65d65750abfe488.tar.gz
+pocketcdg https://github.com/libretro/libretro-pocketcdg/archive/cdcd460d9a01ff2e8d61f650b554812f39ec530a.tar.gz
