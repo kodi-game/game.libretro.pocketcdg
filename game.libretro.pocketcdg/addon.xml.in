@@ -22,6 +22,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="cs_CZ">PocketCDG</summary>
 		<summary lang="da_DK">PocketCDG</summary>
 		<summary lang="en_GB">PocketCDG</summary>
 		<summary lang="es_ES">PocketCDG</summary>
@@ -31,6 +32,7 @@
 		<summary lang="ru_RU">PocketCDG</summary>
 		<summary lang="sv_SE">PocketCDG</summary>
 		<summary lang="zh_CN">PocketCDG</summary>
+		<description lang="cs_CZ">PocketCDG je hudební přehrávač MP3 karaoke.</description>
 		<description lang="da_DK">PocketCDG er en MP3 karaoke musikafspiller.</description>
 		<description lang="de_DE">PocketCDG ist ein MP3-Karaoke-Musikplayer.</description>
 		<description lang="en_GB">PocketCDG is an MP3 karaoke music player.</description>
